@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachefetch",
+        "uuid": 7300020,
+        "checksum": "xhiiou"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
